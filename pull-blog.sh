@@ -1,0 +1,1 @@
+cd ./blog && git pull && cd .. && sudo docker start 49 && sudo docker cp blog 49:/usr/share/nginx/html
